@@ -1,0 +1,31 @@
+# Node Modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Build Output
+.next/
+out/
+
+# MacOS Files
+.DS_Store
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Git Large Files
+node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node
+
+# Misc
+.vscode/
+.idea/
+*.swp
